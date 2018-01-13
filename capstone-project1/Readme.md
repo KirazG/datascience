@@ -25,6 +25,35 @@ This report from USCIS website on requests for consideration of deferred action 
 - Python code
 - A blog with the story with lots of visualization.
 
+# More Background on DACA
+
+**What is DACA**
+
+DACA was an executive action taken by President Barack Obama that allowed undocumented immigrants who came to the US under the age of 16 to apply for protection from deportation. After a background check, those individuals were able to get renewable two-year permits to work and study in the US, as well.
+
+Since it went into effect in 2012, roughly 800,000 people were protected by the program, and roughly 700,000 had active DACA protections in September when the Trump administration announced its end.
+
+To be eligible, applicants had to have arrived in the US before age 16 and have lived there since June 15, 2007. They could not have been older than 30 when the Department of Homeland Security enacted the policy in 2012.
+
+**Why is it ending?**
+
+Conservatives have long disliked DACA, with Trump pledging repeatedly during the campaign to immediately rescind it. After he left it untouched during the first half of the year, a group of Republican-led states threatened to challenge the program in the courts in front of a judge who had already blocked an expansion of DACA to parents of those individuals.
+
+Claiming concern that the courts, in the administration's eyes, would likely immediately invalidate DACA altogether, the Trump administration said the program would be terminated with a six-month window.
+
+One of the biggest complaints from opponents to DACA, besides their argument that it rewarded illegal immigration, was that it was beyond the power of the President and his administration.
+
+Upon ending the program, Trump urged Congress to find a legislative solution and praised recipients as "good, educated and accomplished young people."
+
+**When does it end?**
+
+DHS set a date of March 5, 2018 for permits to begin expiring. All current permits will be honored until their individual two-year expiration date.
+
+To create that window, DHS offered a one-month window for all DACA holders whose permits expired before March 5 to apply for a renewal.
+
+But more than 20,000 DACA holders who were eligible for the renewal did not get their permits extended, either by not applying and paying the $495 fee or for having the application arrive late. Of the 20,000, at least several hundred may have had their applications lost in the mail, a situation DHS is reviewing in order to allow those applicants to reapply.
+
+
 
 ## **Datasets**
 - 2017-status.xls
