@@ -1,4 +1,4 @@
-# capstone-project1
+# Capstone Project One
 Explorative Analysis on Deferred Action for Childhood Arrivals (DACA)
 
 # Deferred Action for Childhood Arrivals (DACA)
