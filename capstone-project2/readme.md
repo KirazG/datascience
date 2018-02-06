@@ -3,9 +3,12 @@
 ### 1.	What is the problem you want to solve?
 
 I am trying to solve three problems 
-1. To predict the result of a t-20 IPL match based on various parameters such Home advantage, First Bat, Ground conditions, Toss, Team combinations. 
-2. To assist in team selection - Who should be included on each grounds against each opposition. Who is probably going to perform better. 
-3. Fantasy League - What should be the composition of your fantasy league team. Fantasy league team is a visual game played by the cricket fans. In a day, the fans are allowed to pick their playing 11 from the four teams who plays on a day. 
+##### Predict the outcome
+To predict the result of a t-20 IPL match based on various parameters such Home advantage, First Bat, Ground conditions, Toss, Team combinations. 
+##### To assist the coach & captain in team selection 
+Who should be included on each grounds against each opposition. Who is probably going to perform better. 
+##### Fantasy League Prediction
+What should be the composition of your fantasy league team. Fantasy league team is a visual game played by the cricket fans. In a day, the fans are allowed to pick their playing 11 from the four teams who plays on a day. 
 
 ### 2.	Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
 Each of the IPL team. I will publish my findings to the team's twitter handle and social forums. Based on the rate of success, the team can try to adapt to the findings.
@@ -18,13 +21,13 @@ For predicting the outcome of a match, I will try to use Native Bayes or ID3 alg
 
 I will also refer to some of the research papers given below
 
-### Auto play : A Data mining approach to ODI cricket simulation and prediction
+#### Auto play : A Data mining approach to ODI cricket simulation and prediction
 https://pdfs.semanticscholar.org/4667/1ddcbb7bcee189ede56937c440b2ec4d0147.pdf
 
-### Evaluation of a Batsman’s Performance in Cricket Using Fuzzy Logic
+#### Evaluation of a Batsman’s Performance in Cricket Using Fuzzy Logic
 http://ijcst.com/vol54/Spl1/11-Vikas-Kumar.pdf
 
-#### Using Machine Learning to Predict the Outcome of English County twenty over Cricket Matches
+##### Using Machine Learning to Predict the Outcome of English County twenty over Cricket Matches
 https://arxiv.org/pdf/1511.05837.pdf
 
 
