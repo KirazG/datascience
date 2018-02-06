@@ -17,7 +17,7 @@ Each of the IPL team. I will publish my findings to the team's twitter handle an
 There is no ready made data available for this. I will be scraping old IPL data, current player's last 20 match data and also the ground conditions. These data will be finally arranged into multiple datasets as per the team and player statistics.  
 
 ### 4.	In brief, outline your approach to solving this problem (knowing that this might change later).
-For predicting the outcome of a match, I will try to use Native Bayes or ID3 algorithm. For the second problem to assist in team selection, I will be gather individual player records to determing the best team for a particular match. Also use some of the set matching algorithms to decide the batting order. 
+For predicting the outcome of a match, I will try to use Naïve Bayes, logistic regression, random forests and gradient boosted trees. For the second problem to assist in team selection, I will be gather individual player records to determing the best team for a particular match. Also use some of the set matching algorithms to decide the batting order. 
 
 I will also refer to some of the research papers given below
 
