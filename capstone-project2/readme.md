@@ -3,11 +3,11 @@
 ### 1.	What is the problem you want to solve?
 
 I am trying to solve three problems 
-##### Predict the outcome
+#### Predict the outcome
 To predict the result of a t-20 IPL match based on various parameters such Home advantage, First Bat, Ground conditions, Toss, Team combinations. 
-##### To assist the coach & captain in team selection 
+#### To assist the coach & captain in team selection 
 Who should be included on each grounds against each opposition. Who is probably going to perform better. 
-##### Fantasy League Prediction
+#### Fantasy League Prediction
 What should be the composition of your fantasy league team. Fantasy league team is a visual game played by the cricket fans. In a day, the fans are allowed to pick their playing 11 from the four teams who plays on a day. 
 
 ### 2.	Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
