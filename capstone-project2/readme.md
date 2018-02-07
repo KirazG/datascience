@@ -1,6 +1,11 @@
 ## Capstone Project Two Proposal
 # The IPL Match Predictor
 ### 1.	What is the problem you want to solve?
+IPL competition is played amongst 8 elite clubs. The format of the game is very simple – each team will face the other 7 teams twice once in their home ground and then in other team’s ground. At the end of all the 56 matches, the top four will qualify for playoff. The first two ranked team will play against each other in Qualifier 1 and the third and fourth team will play against each other in Qualifier 2. The winner of Qualifier 1 one will be qualified for the final and the loser will play against the winner of Qualifier 2 in the Eliminator. 
+
+Group games do not necessarily end with one side winning. They can either have ‘no result’ if weather prevents the game from being finished or be ‘Super-over if both teams end on the same score. In the knock out rounds, ‘no result’ games are replayed on a reserve day and ‘tied’ matches are decided by ‘super-over, ensuring that there is always a winner.
+
+In each IPL team a total of 11 player will play the match and it must comprise of 7 Indians and 4 foreign players. The rule of 7 Indians is mandatory and was introduced to promote local players. So one of the challenges all the team face in each match is to select the 4 foreign players from a total of 8 players. 
 
 I am trying to solve three problems 
 #### Predict the outcome
