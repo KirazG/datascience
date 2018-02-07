@@ -19,7 +19,7 @@ What should be the composition of your fantasy league team. Fantasy league team 
 Each of the IPL team. I will publish my findings to the team's twitter handle and social forums. Based on the rate of success, the team can try to adapt to the findings.
 
 ### 3.	What data are you going to use for this? How will you acquire this data?
-There is no ready made data available for this. I will be scraping old IPL data, current player's last 20 match data and also the ground conditions. These data will be finally arranged into multiple datasets as per the team and player statistics.  
+There is no ready made data available for this. Data will be scraped from www.cricinfo.com and www.cricbuzz.com using a range of web crawlers written in Python. This raw data will be cleaned, wrangled and combined into multiple datasets such as matches, teams, batsman and bowlers.
 
 ### 4.	In brief, outline your approach to solving this problem (knowing that this might change later).
 For predicting the outcome of a match, I will try to use Naïve Bayes, logistic regression, random forests and gradient boosted trees. For the second problem to assist in team selection, I will be gather individual player records to determing the best team for a particular match. Also use some of the set matching algorithms to decide the batting order. 
