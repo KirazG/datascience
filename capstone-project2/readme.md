@@ -19,7 +19,8 @@ Who should be included on each grounds against each opposition? Who is probably 
 What should be the composition of your fantasy league team? Fantasy league team is a visual game played by the cricket fans. In a day, the fans are allowed to pick their playing 11 from the four teams who play on a day. 
 
 ### 2. Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
-Each of the IPL team. I will publish my findings to the team's twitter handle and social forums. Based on the rate of success, the team can try to adapt to the findings.
+IPL teams - I will publish my findings to the team's twitter handle and social forums. Based on the rate of success, the team can try to adapt to the findings. 
+Cricinfo, Cricbuzz - Online sports portal will be interested in getting some insights on IPL analysis.
 
 ### 3. What data are you going to use for this? How will you acquire this data?
 There are no ready-made data available for this. Data will be scraped from www.cricinfo.com and www.cricbuzz.com using a range of web crawlers written in Python. This raw data will be cleaned, wrangled and combined into multiple datasets such as matches, teams, batsman, and bowlers.
