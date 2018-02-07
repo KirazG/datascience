@@ -8,10 +8,13 @@ Group games do not necessarily end with one side winning. They can either have â
 In each IPL team, a total of 11 players will play the match and it must comprise of 7 Indians and 4 foreign players. The rule of 7 Indians is mandatory and was introduced to promote local players. So one of the challenges all the team faces in each match is to select the 4 foreign players from a total of 8 players. 
 
 I am trying to solve three problems 
+
 **Predict the outcome**
 To predict the result of a T-20 IPL match based on various parameters such Home advantage, First Bat, Ground conditions, Toss, Team combinations. 
+
 **To assist the coach & captain in team selection** 
 Who should be included on each grounds against each opposition? Who is probably going to perform better? 
+
 **Fantasy League Prediction**
 What should be the composition of your fantasy league team? Fantasy league team is a visual game played by the cricket fans. In a day, the fans are allowed to pick their playing 11 from the four teams who play on a day. 
 
